@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klevihazizi
-- 👀 I’m interested in making money
+- 👀 I’m interested in building wealth
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on making money
+- 💞️ I’m looking to collaborate in building wealth
 - 📫 How to reach me:
 - 1 gmail klevihazizi10@gmail.com
 - 2 instagram @klevihazizi1
