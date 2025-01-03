@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate in building wealth
 - 📫 How to reach me:
-- klevihazizi@iclooud.com
+- klevihazizi@icloud.com
 - instagram @klevihazizi2
 
 <!---
