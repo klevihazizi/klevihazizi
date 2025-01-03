@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate in building wealth
 - 📫 How to reach me:
--gmail klevihazizi@iclooud.com
--instagram @klevihazizi2
+- klevihazizi@iclooud.com
+- instagram @klevihazizi2
 
 <!---
 klevihazizi/klevihazizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
