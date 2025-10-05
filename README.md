@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @klevihazizi
 - 👀 I’m interested in building wealth
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate in building wealth
 - 📫 How to reach me:
 - klevihazizi@icloud.com
-- instagram @klevihazizi2
+- instagram @klevi_hazizi
 
 <!---
 klevihazizi/klevihazizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
